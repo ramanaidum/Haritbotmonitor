@@ -167,11 +167,11 @@ __pycache__/
 *.pyo
 
 # Exclude distributable files
-*.whl
+#*.whl
 *.tar.gz
 *.zip
 
 # Exclude trained model files
 *.pkl
-*.h5
+#*.h5
 *.model
